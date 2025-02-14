@@ -2,6 +2,6 @@ public class Demo
 {
 	public static void main(String args[])
 	{
-		System.out.println("Hi welcome to CBKore Polytechnic");
+		System.out.println("Welcome to CBKore Polytechnic");
 	}
 }
